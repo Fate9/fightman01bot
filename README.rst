@@ -1,5 +1,5 @@
 .. image:: https://discord.com/api/guilds/572077459189792769/embed.png
-   :target: https://fightman01bot.hu/support
+   :target: https://discord.com/invite/vzkJ3SF
    :alt: Discord szerver meghívó
 
 **FightMan01bot**
